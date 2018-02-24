@@ -1,0 +1,7 @@
+{
+  "name": "jared-uno",
+  "private": true,
+  "dependencies": {
+    "upbase": "https://github.com/Upstatement/ups-mixin-lib.git"
+  }
+}

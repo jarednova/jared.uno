@@ -1,0 +1,19 @@
+{
+  "generator-puppy": {
+    "projectName": "jared.uno",
+    "projectDesc": "Jared's cool website",
+    "features": [
+      "includeUpbase",
+      "includeJQuery",
+      "includeModernizr",
+      "useESNext"
+    ],
+    "includeAuth": false,
+    "includeIndex": true,
+    "includeSampleData": true,
+    "includeFactories": false,
+    "useESNext": true,
+    "runDate": "2018-02-24T21:50:39.574Z",
+    "runVersion": "0.7.0"
+  }
+}
