@@ -31,4 +31,16 @@ title: jared.uno
 		</p>
 	</section>
 </article>
+
+<article id="reading">
+	<h2>Things I've Read</h2>
+	<p>I'm a crazy reader. These are some of the important books and articles that have mattered to me.</p>
+	<div class="content">
+	{% for item in data.reading.books %}
+		<section>
+			<h6><span class="title">{{ item.title }}</span>{{ item.subtitle }}</h6>
+		</section>
+	{% endfor %}
+	</div>
+</article>
 {% endblock %}

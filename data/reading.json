@@ -1,0 +1,36 @@
+{
+	"books" : [
+		{
+			"title" : "The Age of Spiritual Machines",
+			"url"	: "https://www.amazon.com/dp/B002CIY8JW/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1"
+		},
+		{
+			"title"	: "Nonzero"
+		},
+		{
+			"title" : "Why Buddhism is True"
+		},
+		{
+			"title"	: "But How Do It Know?"
+		},
+		{
+			"title" : "Radical Candor",
+			"subtitle"	: "Be a Kick-Ass Boss Without Losing Your Humanity"
+		},
+		{
+			"title"	: "Wonderland",
+			"subtitle"	: "How Play Made the Modern World"
+		},
+		{
+			"title" : "The Works",
+			"subtitle"	: "Anatomy of a City"
+		},
+		{
+			"title"	: "The Way to Go",
+			"subtitle" : "Moving by Sea, Land, and Air"
+		},
+		{
+			"title"	: "Seinfeldia: How a Show About Nothing Changed Everything"
+		}
+	]
+}

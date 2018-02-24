@@ -16,8 +16,22 @@ a {
 	color: $green; text-decoration: none;
 }
 
-p {
+p, h6 {
+	font-size:19.2px;
 	font-weight: 300;
+}
+
+h6 {
+	margin-top: 0;
+	margin-bottom: 10px;
+	.title {
+		font-weight: 500;
+		padding-right: 5px;
+	}
+}
+
+p {
+	
 	a {
 		
 	}
@@ -41,6 +55,15 @@ h1, h2, h3, h4 {
 	font-weight: 500;
 }
 
+#reading .content {
+	@media (min-width: 800px) {
+		column-count: 2;
+	}
+	@media (min-width: 1400px) {
+		column-count: 3;
+	}
+}
+
 
 .main {
 	margin: auto;
@@ -50,4 +73,5 @@ h1, h2, h3, h4 {
 	@media (min-width: 1000px ) {
 		width:80%;
 	}
+	padding-bottom: 100px;
 }
