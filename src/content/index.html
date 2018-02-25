@@ -38,7 +38,9 @@ title: jared.uno
 	<div class="content">
 	{% for item in data.reading.books %}
 		<section>
-			<h6><span class="title">{{ item.title }}</span>{{ item.subtitle }}</h6>
+			<h6>{{ item.url ? '<a href="' ~ item.url ~ '">' }} 
+				<span class="title">{{ item.title }}</span>
+				{{ item.url ? '</a>'}}{{ item.subtitle }}</h6>
 		</section>
 	{% endfor %}
 	</div>
