@@ -38,7 +38,7 @@ title: jared.uno
 	<div class="content">
 	{% for item in data.reading.books %}
 		<section>
-			<h6>{{ item.url ? '<a href="' ~ item.url ~ '">' }} 
+			<h6>{{ item.url ? '<a href="' ~ item.url ~ '" target="_blank">' }} 
 				<span class="title">{{ item.title }}</span>
 				{{ item.url ? '</a>'}}{{ item.subtitle }}</h6>
 		</section>

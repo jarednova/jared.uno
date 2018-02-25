@@ -13,14 +13,22 @@ body {
 	font-size: 1.2em;
 }
 
+nav a {
+	margin-right: 10px;
+}
+
 a {
-	color: darken($green, 15); 
+	color: darken($green, 11); 
 	text-decoration: none;
+	&:hover {
+		color:$green;
+	}
 }
 
 p, h6 {
 	font-size:19.2px;
 	font-weight: 300;
+	line-height: 1.4;
 }
 
 h6 {
@@ -60,6 +68,7 @@ h1 {
 
 h1, h2, h3, h4 {
 	font-weight: 700;
+	line-height: 1.2;
 }
 
 #reading .content {
