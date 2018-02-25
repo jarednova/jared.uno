@@ -7,8 +7,9 @@ $green: #4ae0ae;
 // Project styles go here
 body {
 	font-family: 'Oswald', sans-serif;
-	background-color: #1d2422;
-	color: #CCC;
+	// background-color: #1d2422;
+	// color: #CCC;
+	color: #1d2422;
 	font-size: 1.2em;
 }
 
@@ -58,6 +59,7 @@ h1, h2, h3, h4 {
 #reading .content {
 	@media (min-width: 800px) {
 		column-count: 2;
+		column-gap: 60px;
 	}
 	@media (min-width: 1400px) {
 		column-count: 3;

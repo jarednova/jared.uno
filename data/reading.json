@@ -1,198 +1,219 @@
 {
-	"books" : [
-		{
-			"title" : "The Age of Spiritual Machines",
-			"url"	: "https://www.amazon.com/dp/B002CIY8JW/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1"
-		},
-		{
-			"title"	: "The Spirit of Kaizen",
-			"subtitle"	: "Creating Lasting Excellence One Small Step at a Time",
-			"url"	: "https://smile.amazon.com/gp/product/0071796177/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title"	: "Nonzero",
-			"subtitle" :	"The Logic of Human Destiny",
-			"url"	: "https://smile.amazon.com/Nonzero-Logic-Destiny-Robert-Wright/dp/0679758941/ref=sr_1_1?s=books&ie=UTF8&qid=1519514825&sr=1-1&keywords=nonzero"
-		},
-		{
-			"title"	:	"Implementing Value Pricing",
-			"subtitle"	: "A Radical Business Model for Professional Firms",
-			"url"	:	"https://smile.amazon.com/gp/product/B004GEB9UG/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title" : "Why Buddhism is True",
-			"url" :	"https://smile.amazon.com/gp/product/B01MPZNG63/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title"	: "But How Do It Know?",
-			"url"	:	"https://smile.amazon.com/gp/product/B00F25LEVC/ref=oh_aui_search_detailpage?ie=UTF8&psc=1",
-			"subtitle" : "The Basic Principles of Computers for Everyone"
-		},
-		{
-			"title" : "Radical Candor",
-			"subtitle"	: "Be a Kick-Ass Boss Without Losing Your Humanity",
-			"url"	: "https://smile.amazon.com/gp/product/1250103509/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title"	: "Wonderland",
-			"subtitle"	: "How Play Made the Modern World",
-			"url"	:	"https://smile.amazon.com/gp/product/B01CZCW2PQ/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title" : "The Works",
-			"subtitle"	: "Anatomy of a City",
-			"url"	:	"https://smile.amazon.com/gp/product/1594200718/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title"	: "The Way to Go",
-			"subtitle" : "Moving by Sea, Land, and Air",
-			"url"	:	"https://smile.amazon.com/gp/product/1594204683/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title"	: "Seinfeldia",
-			"subtitle"	: "How a Show About Nothing Changed Everything",
-			"url"	:	"https://smile.amazon.com/gp/product/B0176M3YM0/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title"	: "Homo Deus",
-			"subtitle" : "A Brief History of Tomorrow",
-			"url"	:	"https://smile.amazon.com/gp/product/B01BBQ33VE/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title" : "Messy",
-			"subtitle" : "The Power of Disorder to Transform Our Lives",
-			"url"	: "https://smile.amazon.com/gp/product/1594634793/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title"	: "Sapiens",
-			"subtitle": "A Brief History of Humankind",
-			"url"	: "https://smile.amazon.com/gp/product/B00ICN066A/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title"	: "Underground Airlines",
-			"url"	: "https://smile.amazon.com/gp/product/B017RQP41O/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title": "The Second Machine Age",
-			"url"	: "https://smile.amazon.com/gp/product/B00D97HPQI/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title"	:	"Work Rules!",
-			"url"	:	"https://smile.amazon.com/gp/product/B00MEMMVB8/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title"	: "The Heights",
-			"subtitle" : "Anatomy of a Skyscraper",
-			"url"	: "https://smile.amazon.com/gp/product/1594203032/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title"	:	"Rust",
-			"subtitle"	:	"The Longest War",
-			"url"		:	"https://smile.amazon.com/gp/product/B00LD1S15Q/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title"	: "Secrets of Power Negotiating",
-			"url"	: "https://smile.amazon.com/gp/product/B007RJ9LMU/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title"	: "The Martian",
-			"url"	:	"https://smile.amazon.com/gp/product/B00EMXBDMA/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title"	: "The Plane That Wasn't There",
-			"url"	:	"https://smile.amazon.com/gp/product/B00TP07B0I/ref=oh_aui_search_detailpage?ie=UTF8&psc=1",
-			"subtitle"	:	"Why We Haven't Found Malaysia Airlines Flight 370"
-		},
-		{
-			"title"	:	"Managing The Professional Service Firm",
-			"url"	:	"https://smile.amazon.com/gp/product/B00120955I/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title"	: "The Skies Belong to Us",
-			"subtitle": 	"Love and Terror in the Golden Age of Hijacking",
-			"url"	: "https://smile.amazon.com/gp/product/B00ATLA9YM/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title"	: "Fire in the Hole",
-			"subtitle" : "Raylan Givens and Other Stories",
-			"url"	: "https://smile.amazon.com/gp/product/B007679KCY/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title" : "Then Everything Changed",
-			"url"	: "https://smile.amazon.com/gp/product/B00475AY8W/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		}, 
-		{
-			"title"	: "America's Game",
-			"url"	: "https://smile.amazon.com/gp/product/B001M5JVFM/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title"	: "Merger of the Century",
-			"subtitle" : "Why Canada and America Should Become One Country",
-			"url"	: "https://smile.amazon.com/gp/product/B00ENH6ZIC/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title"	: "Nine Algorithms That Changed the Future",
-			"url"	: "https://smile.amazon.com/gp/product/B005Z67EI0/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title"	: "Visual Explanations",
-			"subtitle": "Images and Quantities, Evidence and Narrative",
-			"url" : "https://smile.amazon.com/gp/product/0961392126/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		}, 
-		{
-			"title" : "11/22/63",
-			"url" : "https://smile.amazon.com/gp/product/B004Q7CIFI/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title" : "Master of the Senate",
-			"url"	: "https://smile.amazon.com/gp/product/B002IPZBPO/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title" : "Please Don't Remain Calm",
-			"subtitle"	: "Michael Kinsley Commentaries 1995 - 2008",
-			"url"	: "https://smile.amazon.com/gp/product/B00421BN18/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title" : "The Information",
-			"url"	: "https://smile.amazon.com/gp/product/B004DEPHUC/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title" : "The Looming Tower",
-			"url"	: "https://smile.amazon.com/gp/product/B000JMKNTW/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title"	: "The Trial of Colonel Sweeto and Other Stories",
-			"subtitle" : "The Perry Bible Fellowship Collection",
-			"url" : "https://smile.amazon.com/gp/product/1593078447/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
-		},
-		{
-			"title" : "Editing by Design",
-			"url" : "https://www.amazon.com/Editing-Design-Designers-Directors-Editors/dp/1581153023"
-
-		},
-		{
-			"title" : "The Bush Tragedy",
-			"url"	: "https://www.amazon.com/Bush-Tragedy-Jacob-Weisberg-ebook/dp/B000SH3NRM/ref=sr_1_1?s=books&ie=UTF8&qid=1519517040&sr=1-1&keywords=the+bush+tragedy"
-		},
-		{
-			"title" : "Kindly Inquisitors",
-			"subtitle" : "The New Attacks on Free Thought",
-			"url" : "https://www.amazon.com/Kindly-Inquisitors-Attacks-Thought-Expanded-ebook/dp/B00FLO0F78/ref=sr_1_1?s=books&ie=UTF8&qid=1519517066&sr=1-1&keywords=kindly+inquisitors"
-		},
-		{
-			"title" : "Traffic",
-			"subtitle" : "Why We Drive the Way We Do",
-			"url"	: "https://www.amazon.com/Traffic-Tom-Vanderbilt-ebook/dp/B001BAGWQE/ref=sr_1_1?s=books&ie=UTF8&qid=1519517032&sr=1-1&keywords=traffic"
-		},
-		{
-			"title" : "43*",
-			"subtitle" : "When Gore Beat Bush",
-			"url"	: "https://www.goodreads.com/book/show/16034689-43-when-gore-beat-bush"
-		},
-		{
-			"title" : "Slow Getting Up",
-			"subtitle" : "A Story of NFL Survival",
-			"url"	: "https://www.amazon.com/dp/B00LEYI4L8/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1"
-		}
-	]
+  "books": [
+    {
+      "title": "The Age of Spiritual Machines",
+      "url": "https://www.amazon.com/dp/B002CIY8JW/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1"
+    },
+    {
+      "title": "The Spirit of Kaizen",
+      "subtitle": "Creating Lasting Excellence One Small Step at a Time",
+      "url": "https://smile.amazon.com/gp/product/0071796177/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "Homicide",
+      "subtitle": "A Year On The Killing Streets",
+      "url": "https://www.amazon.com/dp/B003J4VELI/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1"
+    },
+    {
+      "title": "Nonzero",
+      "subtitle": "The Logic of Human Destiny",
+      "url": "https://smile.amazon.com/Nonzero-Logic-Destiny-Robert-Wright/dp/0679758941/ref=sr_1_1?s=books&ie=UTF8&qid=1519514825&sr=1-1&keywords=nonzero"
+    },
+    {
+      "title": "Implementing Value Pricing",
+      "subtitle": "A Radical Business Model for Professional Firms",
+      "url": "https://smile.amazon.com/gp/product/B004GEB9UG/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "Why Buddhism is True",
+      "url": "https://smile.amazon.com/gp/product/B01MPZNG63/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "But How Do It Know?",
+      "url": "https://smile.amazon.com/gp/product/B00F25LEVC/ref=oh_aui_search_detailpage?ie=UTF8&psc=1",
+      "subtitle": "The Basic Principles of Computers for Everyone"
+    },
+    {
+      "title": "Radical Candor",
+      "subtitle": "Be a Kick-Ass Boss Without Losing Your Humanity",
+      "url": "https://smile.amazon.com/gp/product/1250103509/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "Wonderland",
+      "subtitle": "How Play Made the Modern World",
+      "url": "https://smile.amazon.com/gp/product/B01CZCW2PQ/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "The Works",
+      "subtitle": "Anatomy of a City",
+      "url": "https://smile.amazon.com/gp/product/1594200718/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "The Way to Go",
+      "subtitle": "Moving by Sea, Land, and Air",
+      "url": "https://smile.amazon.com/gp/product/1594204683/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "Seinfeldia",
+      "subtitle": "How a Show About Nothing Changed Everything",
+      "url": "https://smile.amazon.com/gp/product/B0176M3YM0/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "Homo Deus",
+      "subtitle": "A Brief History of Tomorrow",
+      "url": "https://smile.amazon.com/gp/product/B01BBQ33VE/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "Messy",
+      "subtitle": "The Power of Disorder to Transform Our Lives",
+      "url": "https://smile.amazon.com/gp/product/1594634793/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "Sapiens",
+      "subtitle": "A Brief History of Humankind",
+      "url": "https://smile.amazon.com/gp/product/B00ICN066A/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "Underground Airlines",
+      "url": "https://smile.amazon.com/gp/product/B017RQP41O/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "The Second Machine Age",
+      "url": "https://smile.amazon.com/gp/product/B00D97HPQI/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "Work Rules!",
+      "url": "https://smile.amazon.com/gp/product/B00MEMMVB8/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "The Heights",
+      "subtitle": "Anatomy of a Skyscraper",
+      "url": "https://smile.amazon.com/gp/product/1594203032/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "Rust",
+      "subtitle": "The Longest War",
+      "url": "https://smile.amazon.com/gp/product/B00LD1S15Q/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "Secrets of Power Negotiating",
+      "url": "https://smile.amazon.com/gp/product/B007RJ9LMU/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "Consider the Lobster",
+      "subtitle": "and Other Essays",
+      "url": "https://www.amazon.com/Consider-Lobster-Essays-Foster-Wallace/dp/0316013323/ref=sr_1_1?ie=UTF8&qid=1519517720&sr=8-1&keywords=david+foster+wallace"
+    },
+    {
+      "title": "The Martian",
+      "url": "https://smile.amazon.com/gp/product/B00EMXBDMA/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "A Supposedly Fun Thing I'll Never Do Again",
+      "url": "https://www.amazon.com/Supposedly-Fun-Thing-Never-Again-ebook/dp/B002UZ5JQ8/ref=sr_1_4?ie=UTF8&qid=1519517720&sr=8-4&keywords=david+foster+wallace"
+    },
+    {
+      "title": "The Plane That Wasn't There",
+      "url": "https://smile.amazon.com/gp/product/B00TP07B0I/ref=oh_aui_search_detailpage?ie=UTF8&psc=1",
+      "subtitle": "Why We Haven't Found Malaysia Airlines Flight 370"
+    },
+    {
+      "title": "Managing The Professional Service Firm",
+      "url": "https://smile.amazon.com/gp/product/B00120955I/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "The Skies Belong to Us",
+      "subtitle": "Love and Terror in the Golden Age of Hijacking",
+      "url": "https://smile.amazon.com/gp/product/B00ATLA9YM/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "Fire in the Hole",
+      "subtitle": "Raylan Givens and Other Stories",
+      "url": "https://smile.amazon.com/gp/product/B007679KCY/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "Then Everything Changed",
+      "url": "https://smile.amazon.com/gp/product/B00475AY8W/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "America's Game",
+      "url": "https://smile.amazon.com/gp/product/B001M5JVFM/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "Merger of the Century",
+      "subtitle": "Why Canada and America Should Become One Country",
+      "url": "https://smile.amazon.com/gp/product/B00ENH6ZIC/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "Nine Algorithms That Changed the Future",
+      "url": "https://smile.amazon.com/gp/product/B005Z67EI0/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "Visual Explanations",
+      "subtitle": "Images and Quantities, Evidence and Narrative",
+      "url": "https://smile.amazon.com/gp/product/0961392126/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "11/22/63",
+      "url": "https://smile.amazon.com/gp/product/B004Q7CIFI/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "Master of the Senate",
+      "url": "https://smile.amazon.com/gp/product/B002IPZBPO/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "Creativity, Inc.",
+      "url": "https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration-ebook/dp/B00FUZQYBO/ref=pd_sim_351_19?_encoding=UTF8&psc=1&refRID=ZM7WR5Z1G89AS5QNMEAJ"
+    },
+    {
+      "title": "Gang Leader For A Day",
+      "url": "https://www.amazon.com/dp/B0011UCPQ0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1"
+    },
+    {
+      "title": "Please Don't Remain Calm",
+      "subtitle": "Michael Kinsley Commentaries 1995 - 2008",
+      "url": "https://smile.amazon.com/gp/product/B00421BN18/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "The Information",
+      "url": "https://smile.amazon.com/gp/product/B004DEPHUC/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "The Looming Tower",
+      "url": "https://smile.amazon.com/gp/product/B000JMKNTW/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "The Trial of Colonel Sweeto and Other Stories",
+      "subtitle": "The Perry Bible Fellowship Collection",
+      "url": "https://smile.amazon.com/gp/product/1593078447/ref=oh_aui_search_detailpage?ie=UTF8&psc=1"
+    },
+    {
+      "title": "Editing by Design",
+      "url": "https://www.amazon.com/Editing-Design-Designers-Directors-Editors/dp/1581153023"
+    },
+    {
+      "title": "The Bush Tragedy",
+      "url": "https://www.amazon.com/Bush-Tragedy-Jacob-Weisberg-ebook/dp/B000SH3NRM/ref=sr_1_1?s=books&ie=UTF8&qid=1519517040&sr=1-1&keywords=the+bush+tragedy"
+    },
+    {
+      "title": "Kindly Inquisitors",
+      "subtitle": "The New Attacks on Free Thought",
+      "url": "https://www.amazon.com/Kindly-Inquisitors-Attacks-Thought-Expanded-ebook/dp/B00FLO0F78/ref=sr_1_1?s=books&ie=UTF8&qid=1519517066&sr=1-1&keywords=kindly+inquisitors"
+    },
+    {
+      "title": "Traffic",
+      "subtitle": "Why We Drive the Way We Do",
+      "url": "https://www.amazon.com/Traffic-Tom-Vanderbilt-ebook/dp/B001BAGWQE/ref=sr_1_1?s=books&ie=UTF8&qid=1519517032&sr=1-1&keywords=traffic"
+    },
+    {
+      "title": "43*",
+      "subtitle": "When Gore Beat Bush",
+      "url": "https://www.goodreads.com/book/show/16034689-43-when-gore-beat-bush"
+    },
+    {
+      "title": "Slow Getting Up",
+      "subtitle": "A Story of NFL Survival",
+      "url": "https://www.amazon.com/dp/B00LEYI4L8/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1"
+    }
+  ]
 }
