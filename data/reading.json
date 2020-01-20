@@ -1,8 +1,16 @@
 {
   "books": [
     {
+      "title": "How Buildings Learn",
+      "url": "https://en.wikipedia.org/wiki/How_Buildings_Learn"
+    },
+    {
       "title": "The Age of Spiritual Machines",
       "url": "https://www.amazon.com/dp/B002CIY8JW/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1"
+    },
+    {
+      "title" : "Deep Work",
+      "url" : "https://www.calnewport.com/books/deep-work/"
     },
     {
       "title": "The Spirit of Kaizen",
