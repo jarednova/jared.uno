@@ -9,7 +9,7 @@ title: jared.uno
 	<section>
 		<h3>Upstatement <a href="https://upstatement.com" class="main-link">Our work</a></h3>
 		<p>
-			In 2008 I started a design & technology firm with three friends from college. We're now a 30+ person agency in downtown Boston with clients all over the world.
+			In 2008 I started a design & technology firm with three friends from college. We're now a 40+ person agency in downtown Boston with clients all over the world.
 		</p>
 	</section>
 	<section>
@@ -32,23 +32,28 @@ title: jared.uno
 	</section>
 </article>
 
-<article id="reading" class="index-article">
-	<h2>Things I've Read</h2>
-	<p>These are some of the books and articles that have mattered to me.</p>
+<article id="podcasts" class="index-article">
+	<h2>Podcasts I've Been On</h2>
 	<div class="content">
-	{% for item in data.reading.books %}
 		<section>
-			<h6>{{ item.url ? '<a href="' ~ item.url ~ '" target="_blank">' }} 
-				<span class="title">{{ item.title }}</span>
-				{{ item.url ? '</a>'}}{{ item.subtitle }}</h6>
+			<h6><a class="title" href="https://anchor.fm/cuseconversations/episodes/How-Upstatement-is-Helping-Contain-the-Spread-of-COVID-19-eem7kn">Syracuse Alumni Conversations</a> with my partners Mike and Tito, discussing the apps that Upstatement built in response to the COVID-19 crisis.</h6>
 		</section>
-	{% endfor %}
+
+		<section>
+			<h6><a class="title" href="https://pressingmatters.fm/episodes/27-talking-timber-jared-novack/">Pressing Matters</a> on Timber and the importance of making the right technical architecture decisions.</h6>
+		</section>
+
+		<section>
+			<h6><a class="title" href="https://www.stitcher.com/podcast/hiscox/side-hustle-to-small-business/e/61745392">Side Hustle to Small Business</a> on how we grew Upstatement from a nights and weekends project into a full-time job for me (and the many other people who've joined our company since).</h6>
+		</section>
+		
+
+		
 	</div>
 </article>
 
 <article id="talks" class="index-article">
 	<h2>Talks I've Given</h2>
-	<p>I've liked gasbagging in front of an audience ever since I won the third grade talent show. I'm always on the lookout for future opportunities, <a href="mailto:jared@upstatement.com">email me</a> if you have one.</p>
 	<div class="content">
 		<section>
 			<h6><a href="https://www.slideshare.net/JaredNovack/fuck-this-fucking-agile-bullshit" target="_blank">
@@ -84,6 +89,20 @@ title: jared.uno
 				What do Tom Cruise, Will Smith and David Allen all have in common? If you said "IRS investigation" you're correct! But if you also said "a framework for organization and achievement" you're much closer to the relevant commonality behind this presentation.
 			</h6>
 		</section>
+	</div>
+</article>
+
+<article id="reading" class="index-article">
+	<h2>Things I've Read</h2>
+	<p>These are some of the books and articles that have mattered to me.</p>
+	<div class="content">
+	{% for item in data.reading.books %}
+		<section>
+			<h6>{{ item.url ? '<a href="' ~ item.url ~ '" target="_blank">' }} 
+				<span class="title">{{ item.title }}</span>
+				{{ item.url ? '</a>'}}{{ item.subtitle }}</h6>
+		</section>
+	{% endfor %}
 	</div>
 </article>
 {% endblock %}
